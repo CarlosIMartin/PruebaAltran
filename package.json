@@ -1,0 +1,30 @@
+{
+  "name": "prueba-backend",
+  "version": "1.0.0",
+  "description": "proyecto de prueba hecho en node.js",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarlosIMartin/PruebaAltran.git"
+  },
+  "keywords": [
+    "carlosmartin"
+  ],
+  "author": "Carlos Martin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CarlosIMartin/PruebaAltran/issues"
+  },
+  "homepage": "https://github.com/CarlosIMartin/PruebaAltran#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "express-session": "^1.15.6",
+    "lodash": "^4.17.5",
+    "request": "^2.85.0"
+  },
+  "devDependencies": {}
+}
